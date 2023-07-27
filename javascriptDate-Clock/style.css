@@ -1,0 +1,27 @@
+
+
+.time {
+  position: relative;
+  text-align: center;
+  color: #5A496D;
+  font-size: 50px;
+  font-family: 'Poppins', serif;
+  letter-spacing: 7px;
+}
+
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #7B9BB1;
+  font-size: 40px;
+  font-family: 'Poppins', serif;
+  letter-spacing: 7px;
+}
+
+
+img {
+     margin-top: 100px;
+     margin-bottom: 50px;
+     width: 40%;
+     
+}
